@@ -1,0 +1,7 @@
+*.log
+*.vscode
+*.exe
+*.png
+*.json
+build
+__pycache__
